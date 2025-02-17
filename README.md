@@ -5,7 +5,7 @@
 
 # Flavie-A
 
-🎨💻 **Webdesign & Développement Front-end**  
+**Webdesign & Développement Front-end**  
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20">
@@ -18,7 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="20">
 </p>
 
-## 📂 Quelques projets :
+### 📂 Quelques projets :
 
 🚀 Bientôt disponible...  
 
@@ -28,7 +28,7 @@
 -->
 
 
-## 📫 Retrouvez-moi sur :  
+### 📫 Retrouvez-moi sur !
 
 <p align="left">
   <a href="https://flavie-a.fr" target="_blank">
