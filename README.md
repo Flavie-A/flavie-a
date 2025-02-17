@@ -19,6 +19,10 @@
 </p>
 
 **Webdesign & Développement front-end**  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/mapmarker.svg" alt="Localisation" width="20">  
+  <strong> Rhône-Alpes, France</strong>
+</p>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20">
