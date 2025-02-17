@@ -2,7 +2,7 @@
 **Flavie-A/flavie-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
   <a href="https://flavie-a.fr" target="_blank">
- <img src="https://flavie-a.fr/img/logo.svg" alt="Flavie A." width="100">
+ <img src="https://flavie-a.fr/img/logo.svg" alt="Flavie A." width="120">
   </a>
   
 # Flavie-A
@@ -11,11 +11,11 @@
   <a href="https://flavie-a.fr" target="_blank">
      <img src="https://flavie-a.fr/img/logo.svg" alt="Flavie A." width="20">
   </a>
-   
+   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/flavie-andr%C3%A9-37500065" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="20">
   </a>
-    
+    &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Flavie-A" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/github.svg" alt="GitHub" width="20">
   </a>
