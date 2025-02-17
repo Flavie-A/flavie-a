@@ -15,7 +15,7 @@
   **Webdesigner & front-end developer**
   
 <p align="center">
-  ⛰️ Rhône-Alpes, France <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13">
+  Rhône-Alpes, France <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13">
 </p>
 
 ##
@@ -28,8 +28,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="20">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="20">&nbsp;
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/react-router/react-router.png" alt="React Router" width="20">&nbsp;
+    <p></p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="20">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="20">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="20">&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="20">
   </p>
 </div>
