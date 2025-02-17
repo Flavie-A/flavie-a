@@ -1,16 +1,12 @@
 <!--
 **Flavie-A/flavie-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50">
 # Flavie-A
 
 🎨 **Webdesign & Développement Front-end** 💻  
 
-Passionnée par le design et le développement web, je crée des interfaces modernes et performantes en combinant créativité et technologies de pointe.  
-
----
-
-## 🛠️ Technologies & Outils  
+Des supports et des interfaces pour faciliter le web ! 
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50">
