@@ -1,12 +1,26 @@
 <!--
 **Flavie-A/flavie-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+  <a href="https://flavie-a.fr" target="_blank">
  <img src="https://flavie-a.fr/img/logo.svg" alt="Flavie A." width="100">
-
+  </a>
+  
 # Flavie-A
 
-**Webdesign & Développement Front-end**  
-
+**Webdesign & Développement front-end**  
+<p align="left">
+  <a href="https://flavie-a.fr" target="_blank">
+     <img src="https://flavie-a.fr/img/logo.svg" alt="Flavie A." width="20">
+  </a>
+   
+  <a href="https://www.linkedin.com/in/flavie-andr%C3%A9-37500065" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="20">
+  </a>
+    
+  <a href="https://github.com/Flavie-A" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/github.svg" alt="GitHub" width="20">
+  </a>
+</p>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="20">
@@ -18,28 +32,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="20">
 </p>
 
-### 📂 Quelques projets :
+## 📂 Quelques projets :
 
-🚀 Bientôt disponible...  
+Prochainement...  
 
 <!-- 
 - **Nom du projet 1** : Brève description. [Lien vers le projet](#)  
 - **Nom du projet 2** : Brève description. [Lien vers le projet](#)  
 -->
-
-
-### 📫 Retrouvez-moi sur !
-
-<p align="left">
-  <a href="https://flavie-a.fr" target="_blank">
-     <img src="https://flavie-a.fr/img/logo.svg" alt="Flavie A." width="30">
-  </a>
-
-  <a href="https://www.linkedin.com/in/flavie-andr%C3%A9-37500065" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30">
-  </a>
-
-  <a href="https://github.com/Flavie-A" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/github.svg" alt="GitHub" width="30">
-  </a>
-</p>
