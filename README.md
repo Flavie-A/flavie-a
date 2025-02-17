@@ -1,12 +1,11 @@
 <!--
 **Flavie-A/flavie-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50">
+ <img src="https://flavie-a.fr/img/logo.svg" alt="Flavie A." width="80">
+
 # Flavie-A
 
 🎨 **Webdesign & Développement Front-end** 💻  
-
-Des supports et des interfaces pour faciliter le web ! 
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50">
@@ -18,10 +17,11 @@ Des supports et des interfaces pour faciliter le web !
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50">
 </p>
+
 ---
 
 ## 📂 Quelques projets  
-🚀 Bientôt disponibles...  
+🚀 Bientôt disponible...  
 
 <!-- 
 - **Nom du projet 1** : Brève description. [Lien vers le projet](#)  
@@ -34,16 +34,16 @@ Des supports et des interfaces pour faciliter le web !
 
 <p align="left">
   <a href="https://flavie-a.fr" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/website.svg" alt="Website" width="30">
+    
   </a>
   </p>
   <p align="left">
-  <a href="https://www.linkedin.com/in/votre-profil/" target="_blank">
+  <a href="https://www.linkedin.com/in/flavie-andr%C3%A9-37500065" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30">
   </a>
     </p>
     <p align="left">
-  <a href="https://github.com/votre-profil" target="_blank">
+  <a href="https://github.com/Flavie-A" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/github.svg" alt="GitHub" width="30">
   </a>
 </p>
