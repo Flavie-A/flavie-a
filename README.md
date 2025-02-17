@@ -7,7 +7,6 @@
   
 # Flavie-A
 
-**Webdesign & Développement front-end**  
 <p align="left">
   <a href="https://flavie-a.fr" target="_blank">
      <img src="https://flavie-a.fr/img/logo.svg" alt="Flavie A." width="20">
@@ -21,6 +20,9 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/github.svg" alt="GitHub" width="20">
   </a>
 </p>
+
+**Webdesign & Développement front-end**  
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="20">
