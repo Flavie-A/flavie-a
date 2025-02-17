@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://flavie-a.fr" target="_blank">
-    <img src="https://flavie-a.fr/img/logo.svg" alt="Flavie A." width="120">
+    <img src="https://avatars.githubusercontent.com/u/64400502" alt="Flavie A." width="120">
   </a>
   <p>
     <a href="https://www.linkedin.com/in/flavie-andr%C3%A9-37500065" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="20"></a>
