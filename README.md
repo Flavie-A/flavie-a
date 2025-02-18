@@ -4,7 +4,6 @@
 
 <div align="center">
   <a href="https://flavie-a.fr" target="_blank">
-    
     <img src="https://flavie-a.fr/img/logo.svg" alt="Flavie A." width="120">
   </a>
   <p>
