@@ -23,16 +23,16 @@
 <p></p>
 <p>I code with :</p>
 <p dir="auto">
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" style="max-width: 100%;">
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" style="max-width: 100%;">
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&amp;logo=react&amp;logoColor=white" style="max-width: 100%;">
-<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&amp;logo=redux&amp;logoColor=white" style="max-width: 100%;">
-<img alt="react router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&amp;logo=react-router&amp;logoColor=white" style="max-width: 100%;">
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&amp;logo=javascript&amp;logoColor=F7DF1E" style="max-width: 100%; border-radius: 8px;">
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" style="max-width: 100%; border-radius: 8px;">
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&amp;logo=react&amp;logoColor=white" style="max-width: 100%; border-radius: 8px;">
+<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&amp;logo=redux&amp;logoColor=white" style="max-width: 100%; border-radius: 8px;">
+<img alt="react router" src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&amp;logo=react-router&amp;logoColor=white" style="max-width: 100%; border-radius: 8px;">
 </p>
 <p dir="auto">
-<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;">
-<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&amp;logo=sass&amp;logoColor=white" style="max-width: 100%;">
-<img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" style="max-width: 100%;">
-<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" style="max-width: 100%;">
-</p>
+<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" style="max-width: 100%; border-radius: 8px;">
+<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&amp;logo=sass&amp;logoColor=white" style="max-width: 100%;">
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" style="max-width: 100%; border-radius: 8px;">
+<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" style="max-width: 100%; border-radius: 8px;">
+</p
 </div>
