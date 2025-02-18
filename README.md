@@ -7,7 +7,7 @@
     <img src="https://flavie-a.fr/img/logo.svg" alt="Flavie A." width="120">
   </a>
   <p>
-    <a href="https://www.linkedin.com/in/flavie-andr%C3%A9-37500065" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="20"></a>
+    <a href="http://www.linkedin.com/in/flavie-andré" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="20"></a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://github.com/Flavie-A" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/github.svg" alt="GitHub" width="20"></a>
   </p>
